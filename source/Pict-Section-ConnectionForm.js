@@ -86,7 +86,7 @@ const _BaseCSS = /*css*/`
 	padding: 7px 10px;
 	border: 1px solid #cbd5e1;
 	border-radius: 6px;
-	background: #fff;
+	background: var(--theme-color-background-panel, #fff);
 	color: #0f172a;
 	height: 36px;
 }
@@ -114,7 +114,7 @@ const _BaseCSS = /*css*/`
 	padding: 7px 10px;
 	border: 1px solid #cbd5e1;
 	border-radius: 6px;
-	background: #fff;
+	background: var(--theme-color-background-panel, #fff);
 	color: #0f172a;
 }
 .pict-conn-form__field input[type="checkbox"] {

@@ -57,7 +57,7 @@ body {
 
 /* Demo card */
 .demo-card {
-	background: #fff;
+	background: var(--theme-color-background-panel, #fff);
 	border: 1px solid #e2e8f0;
 	border-radius: 8px;
 	padding: 20px;
@@ -82,9 +82,9 @@ body {
 	margin-top: 16px;
 }
 .demo-btn {
-	background: #1d4ed8;
-	color: #fff;
-	border: 1px solid #1d4ed8;
+	background: var(--theme-color-brand-primary-hover, #1d4ed8);
+	color: var(--theme-color-background-panel, #fff);
+	border: 1px solid var(--theme-color-brand-primary-hover, #1d4ed8);
 	border-radius: 6px;
 	padding: 7px 14px;
 	font-size: 13px;
@@ -101,7 +101,7 @@ body {
 .demo-btn.secondary:hover { background: #f1f5f9; border-color: #94a3b8; }
 .demo-btn.danger {
 	background: transparent;
-	color: #b91c1c;
+	color: var(--theme-color-status-error, #b91c1c);
 	border-color: #fecaca;
 }
 .demo-btn.danger:hover { background: #fef2f2; border-color: #f87171; }

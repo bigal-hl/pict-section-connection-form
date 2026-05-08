@@ -1,6 +1,6 @@
 {
 	"name": "pict-section-connection-form",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Pict view that renders a schema-driven Meadow connection form. Consumes connection-form schemas exported by meadow-connection-* modules and aggregated by meadow-connection-manager.",
 	"main": "source/Pict-Section-ConnectionForm.js",
 	"scripts": {

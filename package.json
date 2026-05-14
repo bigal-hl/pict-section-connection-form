@@ -1,6 +1,6 @@
 {
 	"name": "pict-section-connection-form",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"description": "Pict view that renders a schema-driven Meadow connection form. Consumes connection-form schemas exported by meadow-connection-* modules and aggregated by meadow-connection-manager.",
 	"main": "source/Pict-Section-ConnectionForm.js",
 	"scripts": {
@@ -30,9 +30,9 @@
 		"chai": "^4.3.10",
 		"jsdom": "^25.0.1",
 		"mocha": "^11.0.1",
-		"pict": "^1.0.365",
-		"pict-application": "^1.0.33",
-		"quackage": "^1.2.0"
+		"pict": "^1.0.368",
+		"pict-application": "^1.0.34",
+		"quackage": "^1.2.3"
 	},
 	"overrides": {
 		"braces": ">=3.0.3",

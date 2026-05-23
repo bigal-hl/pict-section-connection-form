@@ -26,5 +26,13 @@
 		{ "from": "./html/*", "to": "./dist/" },
 		{ "from": "./css/**", "to": "./dist/css/" },
 		{ "from": "./node_modules/pict/dist/*", "to": "./dist/js/" }
-	]
+	],
+	"retold": {
+		"ExampleApplication": {
+			"Stage": true,
+			"Title": "Connection Form Demo",
+			"Summary": "Interactive showcase for pict-section-connection-form against a five-provider schema fixture.",
+			"Complexity": "Intermediate"
+		}
+	}
 }

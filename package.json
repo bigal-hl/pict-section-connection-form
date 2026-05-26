@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/stevenvelozo/pict-section-connection-form.git"
+		"url": "git+https://github.com/fable-retold/pict-section-connection-form.git"
 	},
 	"keywords": [
 		"pict",
@@ -23,9 +23,9 @@
 	"author": "Steven Velozo <steven@velozo.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/stevenvelozo/pict-section-connection-form/issues"
+		"url": "https://github.com/fable-retold/pict-section-connection-form/issues"
 	},
-	"homepage": "https://github.com/stevenvelozo/pict-section-connection-form#readme",
+	"homepage": "https://github.com/fable-retold/pict-section-connection-form#readme",
 	"devDependencies": {
 		"chai": "^4.3.10",
 		"jsdom": "^25.0.1",

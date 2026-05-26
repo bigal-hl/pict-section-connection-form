@@ -459,6 +459,6 @@ hardcoded `DEMO_SCHEMAS` fixture. The bundle's filename is
 
 ## Related documentation
 
-- [pict-section-connection-form on GitHub](https://github.com/stevenvelozo/pict-section-connection-form) — README covers quick-start, host-option table, and the public-API surface
-- [pict-meadow-connection-manager](https://stevenvelozo.github.io/pict-meadow-connection-manager/) — the named-connection manager that consumes this view
-- [meadow-connection-manager](https://stevenvelozo.github.io/meadow-connection-manager/) — server-side schema aggregator
+- [pict-section-connection-form on GitHub](https://github.com/fable-retold/pict-section-connection-form) — README covers quick-start, host-option table, and the public-API surface
+- [pict-meadow-connection-manager](https://fable-retold.github.io/pict-meadow-connection-manager/) — the named-connection manager that consumes this view
+- [meadow-connection-manager](https://fable-retold.github.io/meadow-connection-manager/) — server-side schema aggregator

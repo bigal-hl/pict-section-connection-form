@@ -1,6 +1,7 @@
 # Connection Form Demo — Schema-Driven Form in Isolation
 
 <!-- docuserve:example-launch:start -->
+> **[&#9654; Launch the live app](examples/connection%5Fform%5Fdemo/index.html)** — runs in your browser, opens in a new tab.
 <!-- docuserve:example-launch:end -->
 
 A standalone interactive showcase for `pict-section-connection-form`.

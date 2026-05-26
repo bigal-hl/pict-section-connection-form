@@ -1,0 +1,7 @@
+{
+	"Name": "pict-section-connection-form",
+	"Version": "1.0.0",
+	"Description": "Pict view that renders a schema-driven Meadow connection form. Consumes connection-form schemas exported by meadow-connection-* modules and aggregated by meadow-connection-manager.",
+	"GeneratedAt": "2026-05-26T18:22:05.713Z",
+	"GitCommit": "99316a1"
+}

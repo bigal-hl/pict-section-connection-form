@@ -1,5 +1,7 @@
 # pict-section-connection-form
 
+> **[Read the pict-section-connection-form Documentation](https://fable-retold.github.io/pict-section-connection-form/)**
+
 Schema-driven Pict view for rendering Meadow database connection forms.
 Consumes the connection-form schemas exported by each `meadow-connection-*`
 module and aggregated server-side via
